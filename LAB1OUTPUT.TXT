@@ -1,0 +1,113 @@
+**********Tic Tac Toe**********
+
+*****  Board of Tic Tac Toe *****
+_	_	_	
+
+_	_	_	
+
+_	_	_	
+
+
+
+Choose a Character X or O : x X
+
+Enter next move's row (1 to 3): 1
+Enter next move's column (1 to 3): 1
+*****PLAYER MOVE*****
+X	_	_	
+
+_	_	_	
+
+_	_	_	
+
+
+
+*****CPU MOVE*****
+X	_	_	
+
+_	O	_	
+
+_	_	_	
+
+
+
+
+Enter next move's row (1 to 3): 3
+Enter next move's column (1 to 3): 3
+*****PLAYER MOVE*****
+X	_	_	
+
+_	O	_	
+
+_	_	X	
+
+
+
+*****CPU MOVE*****
+X	_	_	
+
+_	O	_	
+
+O	_	X	
+
+
+
+
+Enter next move's row (1 to 3): 1
+Enter next move's column (1 to 3): 3
+*****PLAYER MOVE*****
+X	_	X	
+
+_	O	_	
+
+O	_	X	
+
+
+
+*****CPU MOVE*****
+X	O	X	
+
+_	O	_	
+
+O	_	X	
+
+
+
+
+Enter next move's row (1 to 3): 3
+Enter next move's column (1 to 3): 2
+*****PLAYER MOVE*****
+X	O	X	
+
+_	O	_	
+
+O	X	X	
+
+
+
+*****CPU MOVE*****
+X	O	X	
+
+_	O	O	
+
+O	X	X	
+
+
+
+
+Enter next move's row (1 to 3): 2
+Enter next move's column (1 to 3): 1
+*****PLAYER MOVE*****
+X	O	X	
+
+X	O	O	
+
+O	X	X	
+
+
+
+**********The match is tied**********
+Do you want to play again Y or N: m n
+
+
+********** Thank You **********
